@@ -23,7 +23,7 @@ pip install openai
 
 ```python
 import openai
-openai.api_key = "your_api_key_here"
+openai.api_key = "API_KEY"
 ```
 
 ## List Available Models
